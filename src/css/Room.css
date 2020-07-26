@@ -1,0 +1,32 @@
+.room, #root,body, html{
+    height: 100%;
+}
+.dark{
+    background-color: rgba(0, 0, 0, 1);
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color:black;
+}
+.center{
+   text-align: center;
+}
+.on_off{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    width: 85px;
+    border-radius: 50px;
+    outline: none;
+    margin: 5px;
+    padding: 30px;
+}
+.div_b{
+    border: black solid;
+    padding: 20px;
+    border-radius: 50px;
+}
+.brightness{
+    margin: 5px;
+}
